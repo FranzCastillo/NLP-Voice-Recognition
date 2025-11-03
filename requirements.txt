@@ -1,0 +1,17 @@
+torch
+torchaudio
+librosa
+jiwer
+datasets
+transformers
+openai-whisper
+jupyterlab
+numpy
+matplotlib
+seaborn
+tqdm
+ipywidgets==8.*
+jupyterlab-widgets
+hf_xet
+torchcodec
+load_with_torchcodec
